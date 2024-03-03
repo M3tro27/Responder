@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon.png</file>
+        <file>firehouse.png</file>
+        <file>../../Desktop/pavel.jpeg</file>
+        <file>firefighter.jpg</file>
+        <file>firetruck.png</file>
+    </qresource>
+</RCC>

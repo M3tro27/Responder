@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Bell sound.mp3</file>
+        <file>Gong sound.mp3</file>
+    </qresource>
+</RCC>
